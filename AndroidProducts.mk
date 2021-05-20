@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_ysl.mk
+    $(LOCAL_DIR)/superior_ysl.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_ysl-user \
-    cherish_ysl-userdebug \
-    cherish_ysl-eng
+    superior_ysl-user \
+    superior_ysl-userdebug \
+    superior_ysl-eng
